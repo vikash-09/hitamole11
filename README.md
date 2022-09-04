@@ -1,2 +1,2 @@
 # hitamole11
-game build up using html , css &amp; javascrpt
+game build up using html , css &amp; javascript
